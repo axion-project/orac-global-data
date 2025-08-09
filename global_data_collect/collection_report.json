@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-09T14:30:00Z",
+  "data_sources": {
+    "web_scraping": 42,
+    "api_data": 18,
+    "news_articles": 27
+  },
+  "storage_size": "12.34 MB",
+  "file_count": 88
+}
